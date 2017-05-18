@@ -8,7 +8,7 @@ An Android example guide to speed up the development with Kotlin
 I’d be really happy if you sent us links to your projects where you use our component. Just send an email to ashutoshchauhan13@gmail.com And do let us know if you have any questions or suggestion regarding the animation. 
 
 #### Like to chip in!
-Why not join us in strenthening the koltin android community by contributing to this open source library.
+Why not join us in strengthening the koltin android community by contributing to this open source library.
 
 ## License
 
